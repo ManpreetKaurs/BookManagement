@@ -10,4 +10,4 @@ This application is developed using php, and the front end of this app is done w
 Brackets, MySql
 
 # Author
-Manpreet Kaur.
+Manpreet Kaur
